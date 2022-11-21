@@ -35,7 +35,7 @@ function About({}: Props) {
       />
 
       <div className="space-y-10 px-0 md:px-10">
-        <h4 className="text-4xl mt-7 font-semibold">
+        <h4 className="text-4xl mt-11 font-semibold">
           Que es lo que {" "}
           <span className="underline decoration-[#80D133]/50">hago? </span>{" "}
         </h4>
