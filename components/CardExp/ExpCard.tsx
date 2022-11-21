@@ -20,14 +20,14 @@ function ExpCard({}: Props) {
           opacity: 1,
           y: 0,
         }}
-        className="w-32 h-32 rounded-full xl:w-[200px] xl:h-[200px] object-cover object-center"
+        className="w-28 h-25 rounded-full xl:w-[200px] xl:h-[200px] object-cover object-center"
         src="https://i.postimg.cc/cK1r6k3Y/multiservice-logo.jpg"
         alt=""
       />
 
       <div className="px-0 md:px-10">
-        <h4 className="text-4xl font-light">Programador IT</h4>
-        <p className="font-bold text-2xl mt-1">Multiservicecall S.A de C.V</p>
+        <h4 className="text-3xl font-light">Programador IT</h4>
+        <p className="font-bold text-1xl mt-1">Multiservicecall S.A de C.V</p>
         <div className="flex space-x-2 my-2">
           <img
             className="h-10 w-10 rounded-full"
