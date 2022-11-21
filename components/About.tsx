@@ -28,8 +28,8 @@ function About({}: Props) {
         transition={{
           duration: 0.3,
         }}
-        className="-mb-20 md:mb-0 flex-shrink-0 w-56 h-56 rounded-full object-cover
-        md:rounded-lg md:w-64 md:h-95 xl:w-[500px] xl:h-[600px]"
+        className="-mb-20 md:mb-0 flex-shrink-0 w-[150px] h-[150px] rounded-full object-cover
+        md:rounded-lg md:w-44 md:h-85 xl:w-[500px] xl:h-[600px]"
         src="https://iili.io/H9neDue.md.jpg"
         alt=""
       />

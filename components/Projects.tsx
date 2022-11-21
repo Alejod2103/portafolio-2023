@@ -4,7 +4,7 @@ import { motion } from 'framer-motion';
 type Props = {}
 
 function Projects({}: Props) {
-    const projects = [1, 2, 3, 4, 5]
+    const projects = [1, 2, 3, 4, 5];
     return (
     <div className='relative h-screen flex overflow-hidden flex-col text-left md:flex-row max-w-full justify-evenly mx-auto items-center z-0' >
         <h3 className='absolute top-24 uppercase tracking-[20px] text-gray-500 text-2xl'>Proyectos</h3>
@@ -16,7 +16,7 @@ function Projects({}: Props) {
 
               <div className='' >
                 <h4>
-                  Proyecto numero { i + 1 } of {projects.length}: Netflix clone
+                  Proyecto numero { i + 1 } de {projects.length}: Netflix clone
                 </h4>
               </div>
 
