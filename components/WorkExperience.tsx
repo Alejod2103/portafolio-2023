@@ -22,8 +22,6 @@ function WorkExperience({}: Props) {
         <div className='w-full h-[735px] flex space-x-5 overflow-x-scroll p-20 snap-x snap-mandatory' >
             <ExpCard />
             <ExpCard />
-            <ExpCard />
-            <ExpCard />
         </div>
 
     </motion.div>

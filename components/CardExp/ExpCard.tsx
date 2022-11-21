@@ -32,7 +32,22 @@ function ExpCard({}: Props) {
           <img
             className="h-10 w-10 rounded-full"
             src="https://i2.wp.com/info.widespace.com/wp-content/uploads/2016/03/javascript-shield-logo.png?ssl=1"
-            alt=""
+            alt="none"
+          />
+          <img
+            className="h-10 w-10 rounded-full"
+            src="https://i.postimg.cc/f3vF9Rvr/mysql-nobg.png"
+            alt="none"
+          />
+          <img
+            className="h-10 w-10 rounded-full"
+            src="https://i.postimg.cc/bJDKxZL3/php-logo.webp"
+            alt="none"
+          />
+          <img
+            className="h-10 w-10 rounded-full"
+            src="https://ionicframework.com/docs/icons/logo-react-icon.png"
+            alt="none"
           />
         </div>
         <p className="uppercase py-5 text-gray-300">
@@ -40,11 +55,11 @@ function ExpCard({}: Props) {
         </p>
 
         <ul className="list-disc space-y-4 ml-5 text-lg">
-          <li>Punto bueno</li>
-          <li>Punto bueno</li>
-          <li>Punto bueno</li>
-          <li>Punto bueno</li>
-          <li>Punto bueno</li>
+          <li>Desarrollo web</li>
+          <li>Manejo de Bases de Datos</li>
+          <li>Soluciones Optimas</li>
+          <li>Manejo y desarrollo de servidores</li>
+          <li>Despliegue de aplicaciones web</li>
         </ul>
       </div>
     </article>
