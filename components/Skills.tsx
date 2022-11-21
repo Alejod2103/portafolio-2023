@@ -14,7 +14,7 @@ function Skills({}: Props) {
     justify-center xl:space-y-0 mx-auto items-center'>
         <h3 className='absolute top-24 uppercase tracking-[20px] text-gray-500 text-2xl' >skills</h3> 
 
-        <h3 className='absolute top-36 uppercase tracking-[3px] text-gray-500 text-sm' >Desliza sobre una Skill para ver su nivel</h3>
+        <h3 className='absolute top-36 uppercase tracking-[3px] text-gray-500 text-sm' >Desliza o toca una Skill para ver su nivel</h3>
 
         <div className='grid grid-cols-3 gap-5' >
             <Skill />

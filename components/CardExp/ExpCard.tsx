@@ -6,7 +6,7 @@ type Props = {};
 function ExpCard({}: Props) {
   return (
     <article 
-        className="flex flex-col rounded-lg items-center space-y-7 flex-shrink-0 w-[500px] md:w-[600px] xl:w-[900px] snap-center bg-[#292929] p-10
+        className="flex flex-col rounded-lg items-center space-y-7 flex-shrink-0 w-[500px]  md:w-[600px] xl:w-[900px] snap-center bg-[#292929] p-10
         hover:opacity-100 opacity-40 cursor-pointer transition-opacity duration-200" >
       <motion.img
         initial={{
