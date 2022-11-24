@@ -9,7 +9,7 @@ type Inputs = {
     comentarios: string,
   };
 
-function ContactMe({}: Props) {
+function ContactMe({}: Inputs) {
     const { register,
          handleSubmit,} = useForm<Inputs>();
 
