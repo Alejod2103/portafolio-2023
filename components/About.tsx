@@ -36,8 +36,8 @@ function About({}: Props) {
 
       <div className="space-y-10 px-0 md:px-10">
         <h4 className="text-4xl mt-11 font-semibold">
-          Que es lo que {" "}
-          <span className="underline decoration-[#80D133]/50">hago? </span>{" "}
+          Conoce quien {" "}
+          <span className="underline decoration-[#80D133]/50">soy?</span>{" "}
         </h4>
         <p className="text-base">
           Hola Mundo 🌎💻 Soy un Front-End Developer, Tengo 19 años y soy un Joven Apasionado por El
